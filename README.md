@@ -34,3 +34,5 @@ as user inputs.
 
 
 Exercise 02 is a computer program using C++ to assist the magician to decide on what is the hidden card based on the four cards he can see. Four random cards should be taken as user inputs.
+
+A video is provided for a better understand.
